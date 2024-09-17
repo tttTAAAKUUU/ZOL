@@ -9,6 +9,9 @@ const page = () => {
     <>
       <Navbar/>
       <Hero heading = 'ZOL, Roll with us' message = "helping you with your trip" />
+      <p>
+        Why join 
+      </p>
     </>
   )
 }
